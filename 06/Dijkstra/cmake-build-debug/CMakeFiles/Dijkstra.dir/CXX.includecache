@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/Dijkstra/main.cpp
+iostream
+-
+solmu.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/Dijkstra/solmu.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/Dijkstra/solmu.h
+algorithm
+-
+list
+-
+string
+-
+vector
+-
+limits
+-
+

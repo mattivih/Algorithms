@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/graph.h
+limits
+-
+vector
+-
+node.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/node.h
+nodelist.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/nodelist.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/node.h
+math.h
+-
+string
+-
+vector
+-
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/nodelist.h
+limits
+-
+list
+-
+node.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/node.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/test_astar.cpp
+iostream
+-
+graph.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/graph.h
+node.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/06/01/astar_ver2/astar/node.h
+

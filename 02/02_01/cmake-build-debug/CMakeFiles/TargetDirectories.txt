@@ -1,0 +1,3 @@
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/02/02_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/02/02_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/Peliohjelmointi ja tekoälyt/Tehtävät/02/02_01/cmake-build-debug/CMakeFiles/02.dir
